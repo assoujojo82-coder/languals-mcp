@@ -1,0 +1,13 @@
+{
+  "name": "languals",
+  "version": "1.0.0",
+  "description": "Language tutor for Grok Build, through the hosted Languals MCP server: list the languages taught, estimate the CEFR level of a text, correct sentences with each mistake explained in the learner's language, and translate expressions with usage notes. With a Languals account (OAuth): tutor conversations, session notes, progress, flashcard reviews and pronunciation.",
+  "author": {
+    "name": "Languals",
+    "url": "https://languals.fr"
+  },
+  "homepage": "https://languals.fr",
+  "repository": "https://github.com/assoujojo82-coder/languals-mcp",
+  "license": "MIT",
+  "keywords": ["languals", "language tutor", "cefr", "grammar correction", "pronunciation"]
+}
